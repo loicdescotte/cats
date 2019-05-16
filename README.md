@@ -288,6 +288,7 @@ Here's a (non-exhaustive) list of companies that use Cats in production. Don't s
 - [iHeartRadio](https://iheart.com)
 - [ImmobilienScout24](https://www.immobilienscout24.de/)
 - [ITV](https://www.itv.com/)
+- [Kelkoo Group](https://www.kelkoogroup.com)
 - [Lookout](https://www.lookout.com)
 - [Metacommerce](https://www.metacommerce.ru)
 - [Netflix](https://jobs.netflix.com)
